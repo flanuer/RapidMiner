@@ -1,0 +1,2 @@
+# RapidMiner
+Working with RapidMiner
